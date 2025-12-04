@@ -12,12 +12,12 @@ The goal of the work described in this paper is to achieve a rotated bounding bo
 DOTA Dataset
 | Model | PL | BD | BR | GTF | SV | LV | SH | TC | BC | ST | SBF | RA | HA | SP | HC | mAP |
 |---------- |------ |------ |------ |------ |------|------ |------|------ |------| ------| ------|------|------|------|------| :------: |
-| [YOLOv5s](https://github.com/ultralytics/yolov5/releases/tag/v3.0)    | 66.5 | 52.7 | 13.1 | 27.0 | 45.7 | 68.8 | 41.0 | 88.5 | 40.5 | 22.6 | 28.2 | 21.1 | 51.5 | 41.6 | 25.0 | 42.2 
+| [ROD-DOTA]   | 66.5 | 52.7 | 13.1 | 27.0 | 45.7 | 68.8 | 41.0 | 88.5 | 40.5 | 22.6 | 28.2 | 21.1 | 51.5 | 41.6 | 25.0 | 42.2 
 
 HRSC2016
 | Model | Backbone | Size> | mAP50 | 
 |---------- |------ |------ | :------: |
-| [YOLOv5s](https://github.com/ultralytics/yolov5/releases/tag/v3.0)    | DarkNet53     | 800 × 800    | 96.2  
+| [ROD-HRSC]    | DarkNet53     | 800 × 800    | 96.2  
 
 
 ## Requirements
